@@ -1,11 +1,3 @@
----
-title: "IDS_570_HW2"
-output:
-  pdf_document: default
-  author: "Nithin S Gowda,Akshay,lavisha"
-  html_document: default
-date: "2022-10-23"
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
